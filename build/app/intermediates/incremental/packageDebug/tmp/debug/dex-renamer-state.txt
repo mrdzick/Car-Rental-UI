@@ -1,4 +1,0 @@
-#Wed Jan 24 11:32:23 IST 2024
-base.0=/Users/testvagrant/Downloads/software/FlutterDev/Projects/vehicle_rental/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
-path.0=classes.dex
-renamed.0=classes.dex
